@@ -1,2 +1,3 @@
 # python-hangman
-My favorite project for learning a lot of languages
+
+im going to build a java hangman so this is going to be my source
